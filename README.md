@@ -2,7 +2,8 @@
 
 # Public-opinion-analysis
 相关研究领域的最新论文、研究动态；项目参与者研究心得等...<br>
-
+Sentiment Analysis of Twitter Data for Predicting Stock Market Movements（ Word2vec and N-gram分析推特公共情绪数据与股价走势）
+code web：https://github.com/harishpuvvada/BitCoin-Value-Predictor
 
 
 ## 基于自然语言处理的舆情分析
