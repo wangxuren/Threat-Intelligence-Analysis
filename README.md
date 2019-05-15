@@ -9,7 +9,9 @@ code web：https://github.com/harishpuvvada/BitCoin-Value-Predictor
 code web：https://github.com/M3SOulu/TrendMining
 
 [3]异构网络预测情绪关系SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
-code web：
+
+[4]词嵌入：ConceptNet at SemEval-2017 Task 2: Extending Word Embeddings with Multilingual Relational Knowledge
+code web: https://github.com/commonsense/conceptnet-numberbatch
 
 
 ## 基于自然语言处理的舆情分析
