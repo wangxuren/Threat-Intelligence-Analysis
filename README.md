@@ -18,7 +18,9 @@ code web: https://github.com/commonsense/conceptnet-numberbatch
 基于注意力舆情分析<br>
 基于细粒度舆情分析<br>
 基于对抗舆情分析<br>
-
+RNN模型
+GRU模型
+BLSTM模型
 
 
 ## 基于图像处理的舆情分析
