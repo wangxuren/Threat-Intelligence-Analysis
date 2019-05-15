@@ -13,6 +13,8 @@ code web：https://github.com/M3SOulu/TrendMining
 [4]词嵌入：ConceptNet at SemEval-2017 Task 2: Extending Word Embeddings with Multilingual Relational Knowledge
 code web: https://github.com/commonsense/conceptnet-numberbatch
 
+## MIT自然语言处理
+link：http://people.csail.mit.edu/regina/6881/
 
 ## 基于自然语言处理的舆情分析
 基于注意力舆情分析<br>
@@ -62,3 +64,12 @@ CMU机器学习系主任Tom Mitchell院士的 《机器学习》
 
 王斌老师翻译的《大数据 互联网大规模数据挖掘与分布式处理（第2版）》对应的英文书籍是《Mining of Massive Datasets》，有相应的官方主页提供相应的英文PDF，课程和课件资源。
       
+# 五款中文分词工具在线PK: Jieba, SnowNLP, PkuSeg, THULAC, HanLP
+[1]https://github.com/fxsjy/jieba
+[2]https://github.com/isnowfy/snownlp
+[3]https://github.com/lancopku/pkuseg-python
+[4]https://github.com/thunlp/THULAC-Python
+[5]https://github.com/hankcs/pyhanlp
+
+模型一：fastText
+code web：https://github.com/facebookresearch/fastText
